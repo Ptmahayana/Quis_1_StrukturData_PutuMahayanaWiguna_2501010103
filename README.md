@@ -1,8 +1,8 @@
 # Jawaban Quis 1 Struktur Data
 
-**Nama:** [Isi Nama Anda]  
-**NIM:** [Isi NIM Anda]  
-**Kelas:** [Isi Kelas Anda, misal: A1]  
+**Nama:** [Putu Mahayana Wiguna]  
+**NIM:** [2501010103]  
+**Kelas:** [D]  
 **Materi:** Array dan Linked List
 
 ---
